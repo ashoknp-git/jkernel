@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+build/
+dist/
+*.swp
+*.egg-info
